@@ -1,7 +1,7 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-plugin-marketplace.json",
   "name": "databricks-agent-skills",
-  "description": "Databricks agent skills for AI coding assistants.",
+  "description": "Databricks agent skills for AI coding assistants. This fork modifies the marketplace manifest to use a relative plugin path for Factory Droid compatibility.",
   "owner": {
     "name": "Databricks"
   },
